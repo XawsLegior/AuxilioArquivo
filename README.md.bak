@@ -3,7 +3,7 @@
 ### Configuração inicial
 As configurações são feitas no arquivo principal (Database.py).
 - extensao, formato do arquivo, por padrão é .ini
-- path, caminho onde todos os arquivos/pastas serão gerados
+- path, caminho onde o arquivo principal se encontra
 - pastas, nesse list deve ser informado as pastas que devem ser geradas
  - deve ser informado o caminho completo, ignorando o path
  
