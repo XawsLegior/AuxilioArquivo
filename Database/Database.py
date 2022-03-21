@@ -3,6 +3,7 @@ from Database.Funcoes.Comandos import comandos
 
 #########################################################
 #   SCRIPT PARA AUXILIAR NA MANIPULAÇÃO DE ARQUIVOS
+#   ACESSE A DOCUMENTAÇÃO AQUI -> https://github.com/XawsLegior/AuxilioArquivo/wiki/Auxilio-a-Manipulação-de-Arquivos
 #
 #   https://github.com/XawsLegior/AuxilioArquivo
 #########################################################

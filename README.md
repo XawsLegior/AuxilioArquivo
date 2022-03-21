@@ -23,4 +23,4 @@ As configurações são feitas no arquivo Config.ini
 
 - Update<br>
  -- update **posição** from **caminho/arquivo**='**novo valor**' where **posição**=**valor**<br>
- -- update *****  from **caminho/arquivo** where **posição**=**valor**<br>
+ -- update *  from **caminho/arquivo=novo_valor** where **posição**=**valor**<br>
