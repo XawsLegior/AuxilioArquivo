@@ -30,7 +30,7 @@ from Database.Database import Database
     --> VAMOS PEGAR O VALOR 12 DA LINHA 2
 -----------------------------------------------------------
 """
-#res = Database.select(Database("select 2 from Servidores/Config/exemplos where 1=xaws"))
+#res = Database.select(Database("select 1 from Servidores/Config/exemplos where 1=xaws"))
 #print(res)
 
 
