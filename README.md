@@ -1,4 +1,4 @@
-##### Esse script auxilia na manipulação de arquivos, os comandos são semelhantes ao um banco de dados relacional.
+##### Esse script auxilia na manipulação de arquivos, os comandos são semelhantes a um banco de dados relacional.
 
 ### Configuração inicial
 As configurações são feitas no arquivo Config.ini
